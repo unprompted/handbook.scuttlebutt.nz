@@ -32,7 +32,7 @@ _If you are new, you might like to [start with Patchwork](./#how-to-get-started)
         <li><a href='#patchbay'>Patchbay</a></li>
         <li><a href='#perihelion'>Perihelion</a></li>
         <li><a href='#browserdemo'>SSB Browser demo</a></li>
-        <li><a href='#tildefriends'>Tilde Friends</a></li>
+        <li><a href='#tilde-friends'>Tilde Friends</a></li>
       </ul>
     </td>
     <td style="vertical-align: top;"> 
